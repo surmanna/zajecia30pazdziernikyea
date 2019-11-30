@@ -1,0 +1,1 @@
+zajecia30pazdzierniksystemykontroli
