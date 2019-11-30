@@ -6,6 +6,7 @@ public class Main {
     double c = 2;
     double e = 3;
     double f = 4;
+    double g = 5;
 
 
     public static void main(String[] args) {
